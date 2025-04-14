@@ -86,6 +86,7 @@ all algos =>
 ## Concept of Constraint Satisfaction Problem , Formulation of problem into CSP. (Crypt-Arithmetic Problem and Map Coloring Problem).
 
 - [CSP,Map Coloring Etc.](https://www.youtube.com/playlist?list=PL9EkTCQPPVmBL94p6ahSSVBIBOWKDURn1)
+	- tic tac to ![tic tac to](firefox_heQrUSRTH9.png) 
 - [Crypt-Arithmetic Problem](https://www.youtube.com/watch?v=aZblDSAx4cg)
 
 ## Adversarial Searching
