@@ -33,7 +33,7 @@ all algos =>
 
 
 ## uninformed
-- [bfs](https://www.youtube.com/watch?v=qul0f79gxGs)
+- [bfs](https://www.youtube.com/watch?v=qul0f79gxGs) g(s)
 - [ucs](https://www.youtube.com/watch?v=xkcR8-NEI1g)
 - [dfs](https://www.youtube.com/watch?v=cq0cBynFFXI)
 - [dls](https://www.youtube.com/watch?v=P7WQUBLKDmo)
@@ -95,6 +95,11 @@ all algos =>
 - [Min-Max Algorithm](https://www.youtube.com/watch?v=tDv7lrklaQE&t=245s)
 - [Alpha-Beta Pruning](https://www.youtube.com/watch?v=9D1hVGumxCo)
 
+Crypt arithmetic proble
+sudoku
+tictacto
+
+PDDL
 # Knowledge Representation
 
 - Refer Discrete Maths Classroom
@@ -107,6 +112,7 @@ all algos =>
 - [Wumpus World Example Path from square 1,1 to square 2,3 gold](https://www.youtube.com/watch?v=HjuauhCsXBg)
 - [PEAS Wumpus World Example](https://www.youtube.com/watch?v=xSy2nwae2no)
 - [Inference Rules Modes Ponens Modes Tollens in Propositional Logic](https://www.youtube.com/watch?v=DZXTVoSQzFo)
+- Proposition ![](SumatraPDF_m820jbulPM.png)
 
 # Planning 
 
