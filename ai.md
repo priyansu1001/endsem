@@ -33,17 +33,17 @@ all algos =>
 
 
 ## uninformed
-- [bfs](https://www.youtube.com/watch?v=qul0f79gxGs) g(s)
-- [ucs](https://www.youtube.com/watch?v=xkcR8-NEI1g)
-- [dfs](https://www.youtube.com/watch?v=cq0cBynFFXI)
+- [bfs](https://www.youtube.com/watch?v=qul0f79gxGs) breadth wise
+- [ucs](https://www.youtube.com/watch?v=xkcR8-NEI1g) g(s)
+- [dfs](https://www.youtube.com/watch?v=cq0cBynFFXI) same line till end, then come up
 - [dls](https://www.youtube.com/watch?v=P7WQUBLKDmo)
 - [ids](https://www.youtube.com/watch?v=BK8cEWKHCkY)
-- [bidirec](https://www.youtube.com/watch?v=rEema9uQ02c)
+- [bidirec](https://www.youtube.com/watch?v=rEema9uQ02c) both node breadth wise
 
 ## informed
 - bestfs
-	- [gbfs](https://www.youtube.com/watch?v=GVvN0ikNekw)
-	- [A*](https://www.youtube.com/watch?v=iTG7NjQu0Qs)
+	- [gbfs](https://www.youtube.com/watch?v=GVvN0ikNekw) h(s)
+	- [A*](https://www.youtube.com/watch?v=iTG7NjQu0Qs)  g + h
 
 ## local search algo
 
